@@ -4,9 +4,9 @@
 This project analyzes recent weather patterns in Almaty, Kazakhstan, using web scraping, data processing, augmentation, and visualization techniques. A supervised machine learning model is developed to predict future weather conditions. This study aims to provide insights into climatic trends, aiding in better decision-making for local industries and communities.
 
 ## 👨‍💻 Group Members
-- **Mansurkhan Aknur** 🧑‍🏫
-- **Iliyas Aruzhan** 👩‍🔬
-- **Zhurymbay Akbike** 👨‍💻
+- **Mansurkhan Aknur** 
+- **Iliyas Aruzhan** 
+- **Zhurymbay Akbike**
 
 ## 🛠 Project Workflow
 ### 📥 1. Data Collection & Scraping
